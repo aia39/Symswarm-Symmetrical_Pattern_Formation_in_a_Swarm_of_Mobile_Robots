@@ -1,5 +1,9 @@
 function r2r_tot = r2r_local(x,y)
 %R2R distance from simulation
+%parameters 
+%x = x coordinate of each step for all bots, y = y coordinate of each step for all bots
+
+
 distance = @(a,b,c,d) sqrt((a-c)^2 + (b-d)^2);  %calculate distance (inline function)
 
 r2r = zeros(size(x,2));  %nXn matrix for inter-distance

@@ -1,9 +1,8 @@
 function[id] = short_pos_finder(cur_pos, dest_pos, id_booked, ids, num, master)
+%%%%THIS FUNCTION HELPS TO FIND NEAREST POINT FOR EACH ROBOT (Algorithm 2 of paper) 
 %num means 'i' th robot
 
 distance = @(a,b) sqrt((a(1)-b(1))^2 + (a(2)-b(2))^2);  %calculate distance (inline function)
-
-%dest_pos(1,:) = (id_booked(1))*[100,100] + (~id_booked(1))*dest_pos(1,:);   %one line if else to make first index biggest so it won't come in shortest
 
 %%it will activate after once all indices of the id_booked matrices is filled up
 if(all(id_booked))
@@ -36,7 +35,6 @@ else
     
     for j = 2:length(id_booked)
       if(~id_booked(j))
-        %for i = 1:length(dest_pos)
         if(dist(j)<shortest)
            shortest = dist(j);
            id = j;
@@ -46,8 +44,6 @@ else
       end
     end
 
-
 end
-
 
 end
