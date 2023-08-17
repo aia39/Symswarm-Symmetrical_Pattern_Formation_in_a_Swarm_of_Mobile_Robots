@@ -1,3 +1,5 @@
+# SymSwarm: A Two-Staged Decentralized Symmetrical Pattern Formation Paradigm for a Swarm of Mobile Robots
+Paper Link: https://link.springer.com/article/10.1007/s13369-023-08141-9
 # Requirements
 1. Matlab (2014 or above)
 2. CoppeliaSim Edu
