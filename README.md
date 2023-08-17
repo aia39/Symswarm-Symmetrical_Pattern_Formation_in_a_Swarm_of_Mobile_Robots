@@ -1,6 +1,6 @@
 ![demoofprexp1](6_robots.png)
 # SymSwarm: A Two-Staged Decentralized Symmetrical Pattern Formation Paradigm for a Swarm of Mobile Robots
-Paper Link: https://link.springer.com/article/10.1007/s13369-023-08141-9
+By Md. Abrar Istiak, Md Saheed Ullah, Zulqarnain Bin Ashraf, Sudipta Chandra Sarker, Mortuza Minhaj Chowdhury & Sadman Sakib Ahbab. It is accepted in Arabian Journal for Science and Engineering (I.F: 2.9) on August 17, 2023. Paper Link: https://link.springer.com/article/10.1007/s13369-023-08141-9
 # Requirements
 1. Matlab (2014 or above)
 2. CoppeliaSim Edu
