@@ -27,9 +27,7 @@ If you find the work useful in your research, please use the following entry for
 
 ```BibTeX
 ﻿@Article{Istiak2023,
-author={Istiak, Md Abrar and Ullah, Md Saheed and Ashraf, Zulqarnain Bin
-              and Sarker, Sudipta Chandra and Chowdhury, Mortuza Minhaj and
-              Ahbab, Sadman Sakib},
+author={Istiak, Md Abrar and Ullah, Md Saheed and Ashraf, Zulqarnain Bin and Sarker, Sudipta Chandra and Chowdhury, Mortuza Minhaj and Ahbab, Sadman Sakib},
 title={SymSwarm: A Two-Staged Decentralized Symmetrical Pattern Formation Paradigm for a Swarm of Mobile Robots},
 journal={Arabian Journal for Science and Engineering},
 year={2023},
