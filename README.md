@@ -26,14 +26,12 @@ Link: https://youtu.be/0V78n2WvhQA
 If you find the work useful in your research, please use the following entry for citation.
 
 ```BibTeX
-﻿@Article{Istiak2023,
-author={Istiak, Md Abrar and Ullah, Md Saheed and Ashraf, Zulqarnain Bin and Sarker, Sudipta Chandra and Chowdhury, Mortuza Minhaj and Ahbab, Sadman Sakib},
-title={SymSwarm: A Two-Staged Decentralized Symmetrical Pattern Formation Paradigm for a Swarm of Mobile Robots},
-journal={Arabian Journal for Science and Engineering},
-year={2023},
-month={Aug},
-issn={2191-4281},
-doi={10.1007/s13369-023-08141-9},
-url={https://doi.org/10.1007/s13369-023-08141-9}
+@article{istiak2023symswarm,
+  title={SymSwarm: A Two-Staged Decentralized Symmetrical Pattern Formation Paradigm for a Swarm of Mobile Robots},
+  author={Istiak, Md Abrar and Ullah, Md Saheed and Ashraf, Zulqarnain Bin and Sarker, Sudipta Chandra and Chowdhury, Mortuza Minhaj and Ahbab, Sadman Sakib},
+  journal={Arabian Journal for Science and Engineering},
+  pages={1--18},
+  year={2023},
+  publisher={Springer}
 }
 ```
