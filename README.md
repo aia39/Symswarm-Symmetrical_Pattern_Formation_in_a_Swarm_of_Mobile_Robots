@@ -20,7 +20,8 @@ vrep scene.
 
 # Video Demo
 To find out demo of experiments please watch out youtube videos in my channel:
-Link: https://youtu.be/0V78n2WvhQA
+Link: https://youtu.be/0V78n2WvhQA (3 robots)
+https://www.youtube.com/watch?v=GKBhUCIjeAA (7 robots)
 
 # Citation
 If you find the work useful in your research, please use the following entry for citation.
